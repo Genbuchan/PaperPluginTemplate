@@ -5,8 +5,3 @@ description: Plugin description here.
 author: Author
 website: http://example.com/
 api-version: '1.21'
-
-commands:
-  test:
-    description: Test
-    permission: test.test.test
